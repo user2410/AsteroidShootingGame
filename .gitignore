@@ -1,0 +1,4 @@
+Debug/*.obj
+x64/Debug/*.obj
+x64/Debug/Project3.exe
+.vs
